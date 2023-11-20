@@ -34,7 +34,7 @@ const Footer = (props)=> {
                 </div>
                 <div className="copyright">
                     Copyright ©️ 2023 Gelo
-                    <a href='https://www.github.com/Bongani001' target='_blank' rel="noreferrer"><img src={require('../icons_assets/github-logo.png')} alt='Github logo' style={{width: 20, borderRadius: 5}} /></a>
+                    <a href='https://www.github.com/shree9213' target='_blank' rel="noreferrer"><img src={require('../icons_assets/github-logo.png')} alt='Github logo' style={{width: 20, borderRadius: 5}} /></a>
                 </div>
             </section>
     )
